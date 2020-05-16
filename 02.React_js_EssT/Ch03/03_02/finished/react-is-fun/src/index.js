@@ -18,3 +18,4 @@ ReactDOM.render(
 	<Message color="blue" msg="how are you?" minutes={5}/>, 
 	document.getElementById('root')
 )
+ 
